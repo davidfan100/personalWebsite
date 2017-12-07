@@ -1,8 +1,10 @@
-
-p{
-	text-align: center;
+body{
+	background-color: red
 }
 h1{
+	text-align: center;
+}
+.lead{
 	text-align: center;
 }
 .pictures{
@@ -12,8 +14,21 @@ h1{
 	font-size: 30px;
 	color:black;
 }
-.nav-link{
-	color:black;
+.display-3{
+	color: #3399ff;
 }
-
+.nav-link{
+	color:#3399ff;
+}
+.Resume{
+	text-align: center;
+}
+.aboutme{
+	color: #3399ff;
+	font-size: 28px;
+}
+.aboutme a{
+	color: black;
+	font-size: 28px;
+}
 /*#EFFBFB,*/
